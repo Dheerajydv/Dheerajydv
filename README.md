@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my Web Development skill by makin my own projects and contributin to open source projects.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack Web Development Projects<br><br>🌱 **I’m currently learning:**  <br>Advanced backend development and Docker.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, and any general web development questions.<br>
+🔭 **I’m currently working on:**  <br>Improving my Web Development skill by making my own projects and contributin to open source projects.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack Web Development Projects<br><br>🌱 **I’m currently learning:**  <br>Advanced backend development and Docker.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, and any general web development questions.<br>
 
 
 ## 🌐 Socials
